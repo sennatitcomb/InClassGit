@@ -4,4 +4,5 @@ def calc(a, b):
     difference = a - b
     multiply = a * b
     divide = a / b
-#calc(3,4)
+
+calc(int(input("Enter a number: ")), int(input("Enter a second number: ")))
